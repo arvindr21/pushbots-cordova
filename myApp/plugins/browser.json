@@ -1,0 +1,15 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.pushbots.push": {
+            "PACKAGE_NAME": "com.push.notif.app"
+        }
+    },
+    "dependent_plugins": {}
+}

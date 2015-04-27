@@ -1,0 +1,15 @@
+2015-04-27 10:16:11.300 testPushApp[1079:16819] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/arvindravulavaru/Library/Developer/CoreSimulator/Devices/3D9E6E08-B270-42C7-A1FD-D9C91C70C009/data/Containers/Data/Application/1CB54B47-463B-4B12-9CDE-189265DD9E72/Library/Cookies/Cookies.binarycookies
+2015-04-27 10:16:11.690 testPushApp[1079:16819] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 10:16:11.691 testPushApp[1079:16819] Multi-tasking -> Device: YES, App: YES
+2015-04-27 10:16:11.709 testPushApp[1079:16819] Unlimited access to network resources
+2015-04-27 10:16:11.722 testPushApp[1079:16819] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 10:16:12.983 testPushApp[1079:16819] Resetting plugins due to page load.
+2015-04-27 10:16:13.178 testPushApp[1079:16819] Finished load of: file:///Users/arvindravulavaru/Library/Developer/CoreSimulator/Devices/3D9E6E08-B270-42C7-A1FD-D9C91C70C009/data/Containers/Bundle/Application/DA2604A1-FDBC-4658-8F3C-E50AA1797C6B/testPushApp.app/www/index.html
+2015-04-27 10:16:13.211 testPushApp[1079:16819] [Pushbots] :sharedInstanceWithAppId 55347ccb17795958748b457c.

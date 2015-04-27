@@ -1,0 +1,14 @@
+{
+  "name": "myNodeApp",
+  "version": "0.1.0",
+  "description": "Nodejs Pushbots App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arvind Ravulavaru",
+  "license": "MIT",
+  "dependencies": {
+    "pushbots": "0.0.1"
+  }
+}
